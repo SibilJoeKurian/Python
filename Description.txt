@@ -1,0 +1,1 @@
+This is a simple word game. Where the program simply picks up a random word and you can guess it.
